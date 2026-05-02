@@ -26,5 +26,4 @@
 
 ## 🔒 Privacy
 
-We respect your privacy. This extension does not collect, store, or transmit any user data. All interactions occur directly between your browser and Google Keep.
-
+I respect your privacy. This extension does not collect, store, or transmit any user data. All interactions occur directly between your browser and Google Keep.
