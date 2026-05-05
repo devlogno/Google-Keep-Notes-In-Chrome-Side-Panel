@@ -10,13 +10,10 @@
 - **Window Memory**: Remembers your standalone window's size and position for a personalized setup.
 - **Privacy First**: Zero data collection. Your notes stay between you and Google.
 
-## 🛠 Installation
-
-### For Developers (Manual Install)
-1. Clone this repository or download the source code.
-2. Open Chrome and navigate to `chrome://extensions/`.
-3. Enable **Developer mode** (top-right corner).
-4. Click **Load unpacked** and select the extension directory.
+## 🔗 Links
+* **[Download on the Chrome Web Store](https://chrome.google.com/webstore/detail/mjemlecjchpdmponobellganeopiiomo)**
+* **[Read our Privacy Policy](./PRIVACY.md)**
+* **[Report an Issue or Request a Feature](../../issues)**
 
 ## 📖 How to Use
 
